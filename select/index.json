@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Teacher",
+  "base_artist": "友成空",
+  "createdAt": "2026-03-15T18:15:52.889120Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To A Teacher",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/01_To_A_Teacher_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When I Kissed The Teacher",
+      "artist": "ABBA",
+      "has_synced": true,
+      "path": "select/02_When_I_Kissed_The_Teacher_ABBA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Classical Teacher",
+      "artist": "Tenacious D",
+      "has_synced": true,
+      "path": "select/03_Classical_Teacher_Tenacious_D.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Teacher Died / Countless Times",
+      "artist": "Diane Cluck",
+      "has_synced": false,
+      "path": "select/04_My_Teacher_Died___Countless_Times_Diane_Cluck.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "My Teacher Died\u0000Countless Times",
+      "artist": "Diane Cluck",
+      "has_synced": false,
+      "path": "select/05_My_Teacher_Died\u0000Countless_Times_Diane_Cluck.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hot For Teacher",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/06_Hot_For_Teacher_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hot for Teacher",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/07_Hot_for_Teacher_Van_Halen.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Teacher Teacher (1985 Version - 2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/08_Teacher_Teacher_(1985_Version_-_2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Teacher Teacher (1985 Version)  (2020 Remaster)",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/09_Teacher_Teacher_(1985_Version)_(2020_Remaster)_Prince.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Master Teacher",
+      "artist": "Erykah Badu",
+      "has_synced": true,
+      "path": "select/10_Master_Teacher_Erykah_Badu.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Teacher",
+      "artist": "Big Country",
+      "has_synced": true,
+      "path": "select/11_The_Teacher_Big_Country.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "23 Teachers Pet - Poison - Teacher",
+      "artist": "Venom",
+      "has_synced": false,
+      "path": "select/12_23_Teachers_Pet_-_Poison_-_Teacher_Venom.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Teacher´s Pet",
+      "artist": "Venom",
+      "has_synced": true,
+      "path": "select/13_Teacher_́s_Pet_Venom.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Teacher",
+      "artist": "W.A.S.P.",
+      "has_synced": true,
+      "path": "select/14_Teacher_W.A.S.P..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Teacher",
+      "artist": "友成空",
+      "has_synced": false,
+      "path": "select/pl_01_Teacher_友成空.txt"
+    }
+  ]
+}
